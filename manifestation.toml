@@ -1,6 +1,6 @@
 id = "macrottie.blush"
 name = "blush"
-description = "Simple mod to make your character blush without getting super drunk."
+description = "Simple mod to make your character blush without getting super drunk. (toggle with U)"
 version = "1.0.0"
 homepage = "https://github.com/mmccall0813/blush"
 author = "macrottie"
